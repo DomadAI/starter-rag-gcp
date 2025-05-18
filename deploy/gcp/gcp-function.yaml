@@ -1,0 +1,4 @@
+# Sample GCP function config
+entryPoint: handler
+runtime: python310
+trigger: http

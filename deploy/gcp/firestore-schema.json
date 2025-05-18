@@ -1,0 +1,11 @@
+{
+  "collections": [
+    {
+      "name": "documents",
+      "fields": [
+        {"name": "content", "type": "string"},
+        {"name": "embedding", "type": "array"}
+      ]
+    }
+  ]
+}
