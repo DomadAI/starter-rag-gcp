@@ -1,0 +1,3 @@
+
+Our AI-augmented SDLC (Software Delivery Lifecycle) framework integrates GenAI tooling into design, coding, testing, and documentation processes.
+Domad enables engineering teams to accelerate delivery while maintaining quality and governance using GenAI.

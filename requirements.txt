@@ -1,5 +1,10 @@
 fastapi
 uvicorn
 langchain
+langchain-community
+openai
+tiktoken
+python-dotenv
 chromadb
 google-cloud-firestore
+faiss-cpu

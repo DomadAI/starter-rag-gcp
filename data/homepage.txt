@@ -1,0 +1,3 @@
+
+Domad AI is a GenAI-first engineering company that helps teams modernize platforms and embed intelligent agents into their products. 
+We deliver modular, scalable delivery kits for RAG (Retrieval-Augmented Generation), AI-SDLC, and platform modernization, deployed on GCP with production-grade practices.
