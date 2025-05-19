@@ -1,5 +1,7 @@
 # 🚀 Domad AI: Open RAG Delivery Starter Kit
 
+This project is designed to run locally and on Docker, with upcoming support for full GCP deployment in the Pro edition.
+
 Welcome to the **open-core RAG toolkit** from Domad AI — a GenAI-first engineering company that builds modern delivery kits for Retrieval-Augmented Generation (RAG), AI-SDLC, and platform modernization.
 
 This starter project demonstrates how to build a domain-safe GenAI assistant that only responds to questions grounded in your organization's data.
