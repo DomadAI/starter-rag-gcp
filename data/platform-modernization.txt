@@ -1,0 +1,3 @@
+
+Domad's platform modernization services focus on transforming legacy applications into scalable, cloud-native architectures.
+We decouple monoliths, enable microservices, and layer intelligent services to prepare businesses for AI-native workflows.

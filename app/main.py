@@ -1,13 +1,16 @@
-from fastapi import FastAPI
+import sys
+import os
+
+from fastapi import FastAPI, Request
 from pydantic import BaseModel
-from core-lite.chain import run_chain
+from core_lite.chain import run_chain
 
 app = FastAPI()
 
-class Query(BaseModel):
+class QueryRequest(BaseModel):
     question: str
 
 @app.post("/query")
-async def query_rag(q: Query):
-    answer = run_chain(q.question)
-    return {"answer": answer}
+async def query_endpoint(request: QueryRequest):
+    result = run_chain(request.question)
+    return {"answer": result}
